@@ -1,3 +1,4 @@
+// Artist Demo
 import { useContract, useAddress, Web3Button, ThirdwebNftMedia, useOwnedNFTs, useContractRead, } from "@thirdweb-dev/react";
 import { BigNumber, ethers } from "ethers";
 import type { NextPage } from "next";
